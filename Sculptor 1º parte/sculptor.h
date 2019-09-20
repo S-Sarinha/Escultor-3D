@@ -3,7 +3,7 @@
  * @brief  Definição da classe Sculptor e
  *      métodos para desenhar figuras geométricas.
  * @author  Sarah Brazil
- * @author  Valeria
+ * @author  Valeria Karla
 
 */
 #ifndef SCULPTOR_H
