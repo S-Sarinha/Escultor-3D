@@ -5,7 +5,7 @@
  * @author  Sarah Brazil
  * @author  Valeria
 
-
+*/
 #ifndef SCULPTOR_H
 #define SCULPTOR_H
 
@@ -64,8 +64,8 @@ public:
       void putEllipsoid(int xcenter, int ycenter, int zcenter, int rx, int ry, int rz);
       void cutEllipsoid(int xcenter, int ycenter, int zcenter, int rx, int ry, int rz);
       void printFigure();
-      void writeOFF(char filename);
-      void writeVECT(char filename);
+      //void writeOFF(char filename);
+     // void writeVECT(char filename);
 
 };
 
