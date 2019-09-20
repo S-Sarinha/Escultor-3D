@@ -14,7 +14,7 @@ int main()
 
 
     string FigureOneVECT =
-    string FigureOneOFF = "C:/Users/thaty/Documents/Projeto2unidadePA/OFFfiles/FigureOne.off";
+    string FigureOneOFF = 
 
     string FigureTwoVECT =
     string FigureTwoOFF =
